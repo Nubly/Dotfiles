@@ -28,8 +28,8 @@ Here's a simple list of tools that I use on the regular:
 -----
 ## Fonts
 
-I normally use fronts from [nerdfonts](https://www.nerdfonts.com/), but most recently I have been using
-[Hurmit](https://www.programmingfonts.org/#hermit) which I like for its ligatures and icon support.
+I use fonts from [nerdfonts](https://www.nerdfonts.com/).
+Most recently I have been using [Hurmit](https://www.programmingfonts.org/#hermit) which I like for its ligatures and icon support.
 
 -----
 ## Potential TODOs 
