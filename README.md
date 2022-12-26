@@ -1,4 +1,4 @@
-# $\cdot$files
+# · files
 
 My personal dotfiles for use just about anywhere, as well as some additional cool tools/frameworks that I might find
 noteworthy.
