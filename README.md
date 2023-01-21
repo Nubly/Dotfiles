@@ -3,7 +3,6 @@
 My personal dotfiles for use just about anywhere, as well as some additional cool tools/frameworks that I might find
 noteworthy.
 
------
 ## Contents
 Currently, I have dotfiles in this repo for:
 - `tmux`
@@ -11,26 +10,31 @@ Currently, I have dotfiles in this repo for:
 - `alacritty`
 - `zsh`/`oh-my-zsh`
 
------
 ## CLI Tools
 Here's a simple list of tools that I use on the regular:
 - [delta](https://dandavison.github.io/delta/), fancy alternative diff for Git
 - [fzf](https://github.com/junegunn/fzf), fuzzy-find for shell written in Rust
 - [ripgrep](https://github.com/BurntSushi/ripgrep), `grep` alternative written in Rust
 - [fd](https://github.com/sharkdp/fd), `find` alternative written in Rust 
-- [neovim](https://neovim.io/)
+- [bat](https://github.com/sharkdp/bat), `cat` alternative which looks much nicer written in Rust
+- [tmux](https://github.com/tmux/tmux), insanely popular terminal multiplexer written in C
+- [neovim](https://neovim.io/), insanely popular alternative to `vim`
 - [vim-plug](https://github.com/junegunn/vim-plug), plugin manager for neovim
-- [fish](https://fishshell.com/)
+- [fish](https://fishshell.com/), modern shell with fun plugins
 - [btop++](https://github.com/aristocratos/btop), `htop` alternative in C++
 - [taskwarrior](https://taskwarrior.org/), CLI based task manager
 - [k9s](https://k9scli.io/), TUI Kubernetes manager
 
------
 ## Fonts
 
 I use fonts from [nerdfonts](https://www.nerdfonts.com/).
 Most recently I have been using [Hurmit](https://www.programmingfonts.org/#hermit) which I like for its ligatures and icon support.
 
------
-## Potential TODOs 
+## Potential TODOs
+
 - [ ] Ansible playbook to install stuff
+- [ ] Git configuration
+- [ ] Vim plugin documentation?
+- [ ] Colorschemes for iTerm/alacritty
+- [ ] Fish plugin documentation
+- [ ] Add fish plugin conf
